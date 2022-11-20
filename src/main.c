@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-void main()
+int main()
 {
 	printf("Hello World!\n");
-printf("Hola mundo, mi primer proyecto en C!\n")
-;} 
+    printf("Hola mundo, mi primer proyecto en C!\n");
+    return (0);
+} 
